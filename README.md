@@ -1,5 +1,5 @@
 # TecniClick-Proyecto-Final
-Este es el proyecto final presentado en Henry, el cual realicé con un gran equipo de trabajo.
+Este es el proyecto final presentado en Henry, el cual realicé con un gran equipo de trabajo. Implementamos en el front Next.js, TypeScript, TailwindCSS, ademas de dependencias como EmailJs, Sonner, Swipper, entre otros. Y en el back trabajamos con Nestjs, PostgreSQL para la base de datos, y otras dependencias como Google auth, Stripe, entre otros.
 
 <p align="center">
   <img src="./images/logo.png" alt="Vista previa" width="400"/>
